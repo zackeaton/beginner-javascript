@@ -1,9 +1,9 @@
 /* eslint-disable */
 /*
-const name = 'wes';
-const middle = "topher";
-const last = `bos`;
-
+const name = 'zachary'; /* the pro dev move */
+const middle = "thomas"; /* if someone uses double quotes run!*/
+const last = `eaton`; /* backticks allow for line breaks*/
+/*
 const sentence = "shes's so \"cool\"";
 const sentence2 = `shes's so "cool"`;
 
@@ -20,7 +20,7 @@ let hello2 = 'hello my name is ';
 hello2 = hello2 + name;
 hello2 = hello2 + ' Nice to meet you';
 
-const hello = `hello my name is ${name}. Nice to meet you. I am ${1 + 100} years old`;
+const hello3 = `hello my name is ${name}. Nice to meet you. I am ${1 + 100} years old`;
 
 const html = `
   <div>
@@ -33,11 +33,11 @@ document.body.innerHTML = html;
 
 */
 
-// const age = 100.5;
-// const name = 'wes';
+const age = 100.5;
+const name = 'zachary';
 
-// const a = 10;
-// const b = 20;
+const a = 10;
+const b = 20;
 /*
 const smarties = 20;
 const kids = 3;
@@ -78,7 +78,7 @@ teller.first = 'Teller';
 teller.last = null;
 
 */
-
+/*
 let isDrawing = false;
 let age = 18;
 const ofAge = age > 19;
@@ -86,3 +86,4 @@ console.log(ofAge);
 
 age = 100;
 let age2 = 100;
+*/
