@@ -1,8 +1,8 @@
 /* eslint-disable */
 /*
-const name = 'zachary'; /* the pro dev move */
-const middle = "thomas"; /* if someone uses double quotes run!*/
-const last = `eaton`; /* backticks allow for line breaks*/
+const name = 'zachary'; 
+const middle = "thomas"; 
+const last = `eaton`; 
 /*
 const sentence = "shes's so \"cool\"";
 const sentence2 = `shes's so "cool"`;
@@ -49,7 +49,7 @@ const price = 1034;
 
 */
 
-
+/*
 const person = {
   first: 'zack',
   last: 'eaton',
@@ -79,8 +79,8 @@ teller.first = 'Teller';
 teller.middle = 'Joseph';
 teller.last = null;
 
+*/
 
-/*
 let isDrawing = false;
 let age = 18;
 const ofAge = age > 19;
@@ -88,4 +88,3 @@ console.log(ofAge);
 
 age = 100;
 let age2 = 100;
-*/
