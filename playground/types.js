@@ -36,17 +36,17 @@ document.body.innerHTML = html;
 const age = 100.5;
 const name = 'zachary';
 
-const a = 10;
-const b = 20;
-/*
+// const a = 10;
+// const b = 20;
+
 const smarties = 20;
 const kids = 3;
 const eachKidGets = Math.floor(smarties / kids);
 const dadGets = smarties % kids;
-console.log(`Each kids gets ${eachKidGets}`);
+console.log(`Each kids gets ${eachKidGets} Smarties. Dad gets ${dadGets} Smarties.`);
 
 const price = 1034;
-*/
+
 
 
 /*
