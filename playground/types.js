@@ -32,7 +32,7 @@ const html = `
 document.body.innerHTML = html;
 
 */
-
+/*
 const age = 100.5;
 const name = 'zachary';
 
@@ -47,13 +47,13 @@ console.log(`Each kids gets ${eachKidGets} Smarties. Dad gets ${dadGets} Smartie
 
 const price = 1034;
 
+*/
 
 
-/*
 const person = {
-  first: 'wes',
-  last: 'bos',
-  age: 100
+  first: 'zack',
+  last: 'eaton',
+  age: 25
 };
 
 
@@ -71,13 +71,15 @@ const cher = {
 
 const teller = {
   first: 'Raymond',
+  middle: 'Joseph',
   last: 'Teller'
 }
 
 teller.first = 'Teller';
+teller.middle = 'Joseph';
 teller.last = null;
 
-*/
+
 /*
 let isDrawing = false;
 let age = 18;
