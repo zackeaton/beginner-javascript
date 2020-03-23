@@ -7,8 +7,8 @@ function calculateBill(billAmount, taxRate = 0.13, tipRate = 0.15) {
 }
 
 // Function Call. Or **Run**
-const wesTotal = 500;
-const wesTaxRate = 0.3;
+const zackTotal = 500;
+const zackTaxRate = 0.3;
 // const myTotal = calculateBill(wesTotal, wesTaxRate);
 
 // Function Definition
@@ -16,7 +16,7 @@ function sayHiTo(firstName) {
   return `Hello ${firstName}`;
 }
 
-// const greeting = sayHiTo('Wes');
+// const greeting = sayHiTo('Zack');
 // console.log(greeting);
 
 function doctorize(name) {
